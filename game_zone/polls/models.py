@@ -1,3 +1,5 @@
+# Models from Django tutorial
+
 import datetime
 
 from django.db import models
