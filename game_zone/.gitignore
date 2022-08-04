@@ -1,0 +1,15 @@
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv
+venv/
+ENV/
+
+# For security reasons, the .env file should never be included in git
+.env
+.env.database
+setup.sh
