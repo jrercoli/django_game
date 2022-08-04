@@ -8,4 +8,5 @@ def step_impl(context):
 
 @then(u'I will see the choices for that question')
 def step_impl(context):
+    assert 1 == 1
     pass

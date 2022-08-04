@@ -2,7 +2,7 @@ from behave import *
 
 @given(u'we have behave installed')
 def step_impl(context):
-    pass
+    assert 5 == 5
 
 @when(u'we implement a test')
 def step_impl(context):
